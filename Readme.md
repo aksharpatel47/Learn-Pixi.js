@@ -12,3 +12,8 @@ Articles
 --------
 
 * [Draggable, Zoomable Tile Map with Pixi.js by bhopkins](http://www.bhopkins.net/2014/10/08/draggable-zoomable-tile-map-with-pixi-js)
+
+Articles for Typescript
+-----------------------
+
+* [Handling game scenes and screen scaling with Pixi by Ezelia](http://ezelia.com/2013/pixi-tutorial)
